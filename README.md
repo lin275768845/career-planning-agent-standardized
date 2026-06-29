@@ -1,6 +1,6 @@
 # Career Planning Agent - Sanitized Public Mirror
 
-This is a sanitized public mirror. It is for architecture, privacy, human-review workflow, eval, and demo review. It is not a production clone. It does not contain real personal career data. It does not apply to jobs or send messages. It only contains simulated demo artifacts.
+This is a sanitized public mirror. It is for architecture, privacy, human-review workflow, eval, and demo review. It is validation-runnable, not production-runnable, and it is not a production clone. It does not contain real personal career data. It does not apply to jobs or send messages. It only contains simulated demo artifacts.
 
 ## Executive Summary
 
